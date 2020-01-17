@@ -1,0 +1,6 @@
+---
+layout: post
+
+---
+
+Coba tanpa front matter default

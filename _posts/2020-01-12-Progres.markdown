@@ -1,0 +1,8 @@
+---
+layout: post
+title: Progres Minggu Ke-1
+permalink: /:title
+author: "zifa"
+---
+
+Halaman ini akan memberikan informasi mengenai langkah-langkah pengerjaan program EXTRA dan perkembangan program tersebut setelah dikerjakan selama 1 minggu.
